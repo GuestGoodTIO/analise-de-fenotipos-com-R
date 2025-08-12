@@ -1,4 +1,4 @@
-# Análise de Fenótipos em Saúde com R
+ # Análise de Fenótipos em Saúde com R
 
 ## Descrição do Projeto
 
@@ -16,22 +16,22 @@ Este projeto busca aplicar aprendizado e realizar testes com foco em análises a
 
 ```
 r_project/
-├── data/                    # Dados brutos e processados
-│   ├── raw/                # Dados originais
-│   └── processed/          # Dados limpos e transformados
-├── scripts/                # Scripts de análise
-│   ├── 01_data_generation.R    # Geração de dados sintéticos
-│   ├── 02_data_cleaning.R      # Limpeza e preparação
-│   ├── 03_exploratory_analysis.R  # Análise exploratória
-│   ├── 04_statistical_analysis.R  # Análises estatísticas
-│   └── 05_modeling.R           # Modelagem preditiva
-├── functions/              # Funções customizadas
-├── outputs/                # Resultados e visualizações
-│   ├── figures/           # Gráficos e plots
-│   └── tables/            # Tabelas de resultados
-├── shiny_app/             # Aplicação Shiny
-├── tests/                 # Testes unitários
-└── docs/                  # Documentação
+├── data/                                # Dados brutos e processados
+│   ├── raw/                             # Dados originais
+│   └── processed/                       # Dados limpos e transformados
+├── scripts/                             # Scripts de análise
+│   ├── 01_data_generation.R             # Geração de dados sintéticos
+│   ├── 02_data_cleaning.R               # Limpeza e preparação
+│   ├── 03_exploratory_analysis.R        # Análise exploratória
+│   ├── 04_statistical_analysis.R        # Análises estatísticas
+│   └── 05_modeling.R                    # Modelagem preditiva
+├── functions/                           # Funções customizadas
+├── outputs/                             # Resultados e visualizações
+│   ├── figures/                         # Gráficos e plots
+│   └── tables/                          # Tabelas de resultados
+├── shiny_app/                           # Aplicação Shiny
+├── tests/                               # Testes unitários
+└── docs/                                # Documentação
 ```
 
 ## Variáveis Fenotípicas Analisadas
